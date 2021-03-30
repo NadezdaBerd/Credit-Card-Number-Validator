@@ -2,12 +2,13 @@
 
 ## Краткое описание
 
-30.03.2021 было проведено функциональное тестирование приложения Credit Card Number Validator.
+30.03.2021 было проведено функциональное тестирование Credit Card Number Validator.
 
 На тестирование затрачено: 1 час.
 
 В результате тестирования выявлен дефект:
-* Не принимается номер карты системы American Express <ссылка на описание дефекта>
+* Не принимается номер карты системы American Express в Credit Card Number Validation 
+  https://github.com/NadezdaBerd/Credit-Card-Number-Validator/issues/1#issue-843973402: https://github.com/NadezdaBerd/Credit-Card-Number-Validator/issues/1#issue-843973402
 
 
 ## Описание процесса тестирования
